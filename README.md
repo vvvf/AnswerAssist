@@ -7,4 +7,5 @@
 调用tesseract使用的是[thiagoalessio](https://github.com/thiagoalessio)的tesseract-ocr-for-php，可以直接在用Composer导入。
 
 
-tesseract识别中文准确率不高，所以这个程序没有太大实用意义。# AnswerAssist
+tesseract识别中文准确率不高，所以这个程序没有太大实用意义。
+ 
